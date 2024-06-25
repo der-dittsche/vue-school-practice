@@ -4,7 +4,8 @@
       Trello Board
     </h1>
     <p class="text-lg pb-4">with NuxtJs and the library draggable</p>
-    <TrelloBoard></TrelloBoard>
+    <TrelloBoard>
+    </TrelloBoard>
   </div>
 </template>
 <script setup lang="ts">
