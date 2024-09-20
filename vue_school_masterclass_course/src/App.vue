@@ -3,5 +3,7 @@
 </script>
 
 <template>
- <h1>Hallo bei der Regenbogenbande</h1>
+  <main>
+    <RouterView />
+  </main>
 </template>
