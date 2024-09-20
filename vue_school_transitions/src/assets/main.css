@@ -1,0 +1,16 @@
+.fade-transition {
+    transition: opacity .1s ease;
+}
+
+.fade-move-transition {
+    transition: opacity .5s ease, transform .1s ease;
+}
+
+.fade-opacity-0 {
+    opacity: 0;
+}
+
+.fade-move-opacity-0 {
+    transform: translateY(40px);
+    opacity: 0;
+}

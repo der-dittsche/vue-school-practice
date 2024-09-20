@@ -1,0 +1,12 @@
+<template>
+  <Transition
+      name="fade"
+      enter-active-class="fade-transition"
+      leave-active-class="fade-transition"
+      enter-from-class="fade-opacity-0"
+      leave-to-class="fade-opacity-0"
+      appear
+      mode="out-in">
+    <slot></slot>
+  </Transition>
+</template>

@@ -1,0 +1,11 @@
+<template>
+  <Transition
+      name="fade"
+      enter-active-class="fade-move-transition"
+      leave-active-class="fade-move-transition"
+      enter-from-class="fade-move-opacity-0"
+      leave-to-class="fade-move-opacity-0"
+>
+    <slot></slot>
+  </Transition>
+</template>
