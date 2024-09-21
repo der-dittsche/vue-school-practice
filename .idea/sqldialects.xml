@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="SqlDialectMappings">
+    <file url="file://$PROJECT_DIR$/vue_school_masterclass_course/supabase/migrations/20240920124539_project_schema.sql" dialect="PostgreSQL" />
+    <file url="file://$PROJECT_DIR$/vue_school_masterclass_course/supabase/migrations/20240920175200_task-schema.sql" dialect="PostgreSQL" />
+  </component>
+</project>
